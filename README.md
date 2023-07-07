@@ -1,33 +1,24 @@
 # projet_bot_discord
 
-Ce bot est est le premier projet de groupe développé en python.
+Ce projet représente notre premier projet de groupe développé en Python.
 
-Le but de ce projet est de créer un bot Discord pouvant être déployé sur un serveur et pose une série de questions sous forme de quiz.
+## Description
 
-Le bot a les fonctions suivantes :
+Le but de ce projet est de créer un bot Discord capable d'être déployé sur un serveur et de proposer un quiz interactif sous forme de questions.
 
-• Il peut être lancé via une commande à tout moment.
+## Fonctionnalités
 
-• Il pose une série de questions à l’utilisateur.
+- Lancement du bot via une commande à tout moment.
+- Pose d'une série de questions à l'utilisateur.
+- Attribution et comptage des points pour les réponses correctes.
+- Possibilité pour l'utilisateur de demander un indice ou de passer une question.
+- Affichage du score total du joueur une fois toutes les énigmes complétées.
+- Commande disponible pour recommencer le quiz depuis le début.
 
-• Si les réponses sont bonnes, il donne et compte le nombre de points.
+## Compétences requises
 
-• Si l'utilisateur en a besoin, il peut demander un indice ou passer la question.
-
-• Afficher le score total du joueur lorsque toutes les énigmes ont été réalisées.
-
-• Une commande est disponible pour relancer le quiz depuis le début.
-
-
-
-Compétences utiles à la réalisation du projet :
-
-• Les imports de bibliothèques
-
-• Les conditions
-
-• Les boucles
-
-• Les dictionnaires
-
-• Les conditions
+- Imports de bibliothèques.
+- Utilisation de conditions.
+- Utilisation de boucles.
+- Manipulation de dictionnaires.
+- Gestion des réponses de l'utilisateur.
